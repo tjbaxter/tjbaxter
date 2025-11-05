@@ -1,10 +1,15 @@
-# 👋 Hi, I'm Thomas Baxter
+👋 Hi, I'm Thomas Baxter
 
-- 🚀 Founder of Flair - building the future of social media
-- 💻 Proficient in SwiftUI, TypeScript, Python, Electron  
-- 🤖 Passionate about AI-powered desktop applications
-- 🎓 Cambridge Physics graduate (MPhil)
-- ⚡ Currently: Building desktop AI tools with focus on performance optimization
-- 🖥️ Exploring real-time systems and context-aware applications
+🧠 Founder & Engineer at LUPO — real-time AI for sales calls
 
-📫 **Contact:** tjpb2@cantab.ac.uk
+💻 Skilled in SwiftUI, TypeScript, Python, and Electron
+
+⚙️ Focused on low-latency inference, real-time systems, and context-aware AI
+
+🎓 Cambridge Physics (MPhil)
+
+⚡ Currently building high-performance desktop AI tools
+
+📫 Contact: tom@lupolabs.ai
+
+🌐 lupolabs.ai
