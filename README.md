@@ -1,9 +1,9 @@
 👋 Hi, I'm Thomas Baxter
 
-* 🧠 Building production AI voice systems with sub-second latency
-* 💻 TypeScript, Python, Go - focused on fullstack AI applications  
-* ⚙️ Real-time systems, RAG optimization, LLM infrastructure
-* 🎓 Cambridge Physics (MPhil) - computational modeling & stochastic processes
-* ⚡ Currently: Production agentic AI systems & voice agents
+* 🧠 Built production AI voice agent - sub-700ms latency with multi-LLM routing
+* 💻 TypeScript/Node.js, Python/FastAPI - fullstack systems
+* ⚙️ Real-time voice AI, hybrid RAG, vector search (FAISS/Qdrant)
+* 🎓 Cambridge Physics MPhil - computational modeling
+* ⚡ Available for remote contract/FT work
 
 📫 tjpb2@cantab.ac.uk
