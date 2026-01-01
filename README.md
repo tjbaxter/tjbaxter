@@ -1,10 +1,9 @@
-# 👋 Hi, I'm Thomas Baxter
+👋 Hi, I'm Thomas Baxter
 
-- 🧠 Founder & Engineer at LUPO — real-time AI for sales calls  
-- 💻 Proficient in SwiftUI, TypeScript, Python, Electron  
-- ⚙️ Focused on low-latency inference, real-time systems, and context-aware AI  
-- 🎓 Cambridge Physics graduate (MPhil)  
-- ⚡ Currently: Building high-performance desktop AI tools  
+* 🧠 Building production AI voice systems with sub-second latency
+* 💻 TypeScript, Python, Go - focused on fullstack AI applications  
+* ⚙️ Real-time systems, RAG optimization, LLM infrastructure
+* 🎓 Cambridge Physics (MPhil) - computational modeling & stochastic processes
+* ⚡ Currently: Production agentic AI systems & voice agents
 
-📫 **Contact:** tom@lupolabs.ai  
-🌐 **Website:** [lupolabs.ai](https://lupolabs.ai)
+📫 tjpb2@cantab.ac.uk
