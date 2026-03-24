@@ -1,10 +1,10 @@
 ### Thomas Baxter
 
-Cambridge MPhil Physics. Building quantitative models in the prediction market space.
+Cambridge MPhil Physics.
 
-Currently working on a weather mispricing bot on Polymarket. Combines multiple independent weather forecast models, converts predictions into probability distributions, and trades against market prices where edge exists. Fractional Kelly sizing, 12 parallel strategies, 8 profitable.
+Currently building a weather-market trading system on Polymarket, combining multiple forecast models to estimate bucket probabilities, evaluate market prices, and test strategy variants.
 
-Previously founded LUPO AI, a production voice agent platform. Sub-500ms latency, multi-model inference routing.
+Previously founded LUPO, where I built real-time voice systems for sales and customer calls.
 
 Python | Probability | Prediction Markets
 
