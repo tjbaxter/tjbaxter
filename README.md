@@ -8,4 +8,4 @@ Previously founded LUPO, where I built real-time voice systems for sales and cus
 
 Python | Probability | Prediction Markets
 
-tjpb2@cantab.ac.uk
+tjpb2@cantab.ac.uk 
