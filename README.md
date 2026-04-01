@@ -1,11 +1,9 @@
-### Thomas Baxter
+# Thomas Baxter
 
-Cambridge MPhil Physics.
+MPhil Physics, Cambridge.
 
-Currently building a weather-market trading system on Polymarket, combining multiple forecast models to estimate bucket probabilities, evaluate market prices, and test strategy variants.
+Building systematic trading systems and probabilistic pricing models, with recent work on weather-linked and event-driven markets.
 
-Previously founded LUPO, where I built real-time voice systems for sales and customer calls.
+Previously founded LUPO, building real-time voice systems for sales and customer calls.
 
-Python | Probability | Prediction Markets
-
-tjpb2@cantab.ac.uk 
+**Python | Probability | Trading Systems**
