@@ -6,7 +6,7 @@ Projects in pricing, probability, and systematic trading.
 
 Recent work includes cross-venue crude oil fair-value models and systematic weather-market strategies.
 
-Previously founded LUPO, building real-time voice systems for sales and customer calls.
+Founder of LUPO, the AI intake layer for inbound sales. MPhil Physics, Cambridge
 
 **Python | Probability | Market Structure**
 
