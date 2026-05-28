@@ -1,15 +1,17 @@
 # Thomas Baxter
 
-MPhil Physics, Cambridge.
+MPhil Physics, Cambridge. Based in London.
 
-Projects in pricing, probability, and systematic trading.
+I build production systems at the intersection of probability, market structure, and product engineering.
 
-Recent work includes cross-venue crude oil fair-value models and systematic weather-market strategies.
+Currently building [LUPO](https://lupolabs.ai) — an AI inbound SDR platform for service businesses.
 
-Built LUPO, the AI intake layer for inbound sales. MPhil Physics, Cambridge
+### What I'm working on publicly
 
-**Python | Probability | Market Structure**
+- **[CL Delta Scope](https://github.com/tjbaxter/oil-delta-monitor)** — real-time dislocation monitor pricing Kalshi WTI binaries against a Black-Scholes call-spread fair value. Live at [cldelta.com](https://cldelta.com).
+- **[Prediction Market Pricing Engine](https://github.com/tjbaxter/prediction-market-equilibrium)** — cross-venue EV calculator and Kelly-sized paper trader for Polymarket / Kalshi, fee-aware and grounded in the IMDEA "Probabilistic Forest" arbitrage paper.
+- **[Volatility Surface Explorer](https://github.com/tjbaxter/volatility-surface-explorer)** — SVI surface calibration, Greeks, and a delta-hedged skew-selling backtest for SPY.
 
-<img width="1512" height="798" alt="Screenshot 2026-04-02 at 18 40 43" src="https://github.com/user-attachments/assets/ce39fc81-eff4-4174-9be4-f0ce18689406" />
+### Stack
 
-check it out here! https://cldelta.com/
+Python (NumPy, SciPy, pandas, Streamlit), TypeScript / Next.js, Node, Postgres. Comfortable across the stack; happiest in places where probability meets a UI.
