@@ -4,7 +4,7 @@ MPhil Physics, Cambridge. Based in London.
 
 I build production systems at the intersection of probability, market structure, and product engineering.
 
-Built [LUPO](https://lupolabs.ai) — an AI inbound SDR.
+Built [LUPO](https://lupolabs.ai) — GTM software for PLG companies
 
 ### What I'm working on publicly
 
