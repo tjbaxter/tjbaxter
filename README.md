@@ -1,16 +1,8 @@
-Real-time voice agents on live phone lines. Probability and market microstructure. MPhil Physics, Cambridge. London.
+The phone rings. Something answers.<br>
+[`pestlineai.com`](https://pestlineai.com) &nbsp; [`badline.ai`](https://badline.ai)
 
-### Building
+A Gmail signup. A company behind it.<br>
+[`lupolabs.ai`](https://lupolabs.ai)
 
-- **[PestLine AI](https://pestlineai.com)**: the AI receptionist built only for pest control companies. It answers calls, website chat and texts in the company's name, books the inspection, and alerts the owner when a job is urgent. In production.
-- **[Badline AI](https://badline.ai)**: AI voice agents for businesses that live on the phone. They answer every call, book the job, screen out spam and sales pitches, and send a summary when the call ends.
-- **[LUPO](https://lupolabs.ai)**: Project River, identity resolution for product-led companies. It names the company behind a personal Gmail or Outlook signup, shows its evidence, and refuses to guess. Waitlist open.
-
-### Research
-
-- **[CL Delta Scope](https://github.com/tjbaxter/oil-delta-monitor)**: Kalshi's WTI daily binaries priced against a Black-Scholes fair value from a $1-wide call spread on streaming CME crude. Live at [cldelta.com](https://cldelta.com).
-- **[Volatility Surface Explorer](https://github.com/tjbaxter/volatility-surface-explorer)**: SVI fitted per expiry to SPY implied vols, Black-Scholes Greeks, and a delta-hedged short-put backtest net of costs. [Live demo](https://tjbaxter.github.io/volatility-surface-explorer/).
-- **[Market-Making Research](https://github.com/tjbaxter/market-making-research)**: a market-making simulator that measures adverse-selection cost, with VPIN toxicity and Avellaneda-Stoikov quoting.
-- **[Prediction Market Pricing Engine](https://github.com/tjbaxter/prediction-market-equilibrium)**: a fee-aware scanner for Polymarket NegRisk books whose YES prices don't sum to $1, and for Polymarket vs Kalshi gaps, sized at quarter Kelly.
-
-Reach me on [LinkedIn](https://www.linkedin.com/in/thomasjpbaxter/).
+A price is wrong, briefly.<br>
+[`cldelta.com`](https://cldelta.com)
